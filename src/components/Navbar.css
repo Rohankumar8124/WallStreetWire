@@ -1,0 +1,6 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+  }
+body {
+padding-top: 75px; /* Adjust based on your navbar height */
+}

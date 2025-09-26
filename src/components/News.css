@@ -1,0 +1,9 @@
+/* For light mode */
+.form-control::placeholder {
+    color: rgb(67, 65, 65); /* Dark gray for light mode */
+}
+
+/* For dark mode */
+.form-control.bg-dark::placeholder {
+    color: rgb(181, 173, 173); /* Light gray for dark mode */
+}
